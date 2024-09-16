@@ -1,3 +1,3 @@
 - 👋 Hi, I’m friendly DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,regex,nginx,docker,aws,cloudflare,mongodb,git,github,githubactions,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,aws,terraform,kubernetes,nginx,cloudflare,prometheus,grafana,postgres,mysql,mongodb,redis,git,github,githubactions,gitlab,postman,bash,regex,wordpress,vscode,discord)](https://skillicons.dev)
